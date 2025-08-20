@@ -45,15 +45,9 @@ A mobile-based coffee shop management system that allows customers to customize 
 
 ---
 
-## 📊 GitHub Stats
-![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeyad-Tantawy1&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-Tantawy1&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zeyad-tantawy-6a5859314/)  
-- 📧 Email: **zeyadtantawy@gmail.com**  
+- 📧 Email: **zeyadtantawy1@gmail.com**  
 
 ---
 
