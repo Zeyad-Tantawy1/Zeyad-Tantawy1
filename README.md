@@ -73,6 +73,15 @@ Mobile-based coffee shop management system for customized beverage orders.
 
 ---
 
+## 📊 GitHub Stats
+
+![Zeyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeyad-Tantawy1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-Tantawy1&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeyad-Tantawy1&theme=tokyonight)  
+![Profile Views](https://komarev.com/ghpvc/?username=Zeyad-Tantawy1&color=blue&style=flat-square)  
+
+---
+
 ## 📫 Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-tantawy-6a5859314/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyadtantawy@gmail.com)  
