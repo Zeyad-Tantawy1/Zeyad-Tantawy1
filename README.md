@@ -45,8 +45,9 @@ AI-powered **face recognition door system** using YOLOv5, Dlib, and OpenCV.
 ---
 
 ### 📧 English–Arabic Email Spam Detection  
-Multilingual spam/phishing detection system using classical ML models (Logistic Regression, Random Forest, SVM, Naive Bayes, KNN) and Deep Learning (LSTM, GRU, CNN).  
+Multilingual spam/phishing detection system using classical ML models (**Logistic Regression, Random Forest, SVM, Naive Bayes, KNN**) and Deep Learning (**LSTM, GRU, CNN**).  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyad-Tantawy1&repo=Email-Spam-Detection&theme=tokyonight)](https://github.com/Zeyad-Tantawy1/Email-Spam-Detection)
+
 
 ---
 
