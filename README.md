@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Zeyad Tantawy
 
-🤖 **AI Engineer** | 📊 Passionate about **Data Science, Machine Learning, and Embedded Systems**  
-📚 Currently pursuing an **Embedded Systems Diploma** to expand my expertise in hardware-software integration.  
+**AI Engineer | Data Science, ML & Embedded Systems Enthusiast**  
+📚 Currently pursuing an **Embedded Systems Diploma** to strengthen my expertise in hardware-software integration.  
 🎓 B.Sc. in **Artificial Intelligence** – Misr International University (Expected 2026)  
+🚀 Exploring the intersection of AI and Embedded Systems to build intelligent real-world solutions.  
 
 ---
 
@@ -35,41 +36,35 @@
 
 ---
 
-## 🌟 Experience
-
-### 🧑‍💻 Machine Learning Intern — **Elevo** *(08/2025 – 09/2025)*  
-- Built ML models for regression, clustering, classification, recommendation systems, and computer vision.  
-- Projects: Student Score Prediction, Customer Segmentation, Forest Cover Classification, Loan Approval Prediction, Movie Recommendation System.  
-
-### ☁️ AI Intern — **Sprint X Microsoft Summer Camp** *(08/2025 – 09/2025)*  
-- Developed AI models using **Python, TensorFlow, and Azure ML**.  
-- Applied ML algorithms to real-world datasets in cloud environments.  
-
-### 🧠 Machine Learning Intern — **Prodigy, India** *(08/2025 – 09/2025)*  
-- Built regression models for **house price prediction**.  
-- Developed **customer segmentation** using K-Means.  
-- Implemented **image classification models** (SVM).  
-- Designed **hand gesture recognition** and **food calorie estimation** systems.  
-
-### 💻 IT Intern — **Family Business** *(11/2022 – 12/2022)*  
-- Managed Ubuntu-based systems and implemented security configurations.  
-- Provided IT support and troubleshooting for hardware/software.  
-
----
-
-## 📂 Featured Projects
+## 🌟 Featured Projects
 
 ### 🔑 Smart Door Recognition System  
 AI-powered **face recognition door system** using YOLOv5, Dlib, and OpenCV.  
-[🔗 View Repository](https://github.com/Zeyad-Tantawy1/Samrt-Door-Recognition-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyad-Tantawy1&repo=Samrt-Door-Recognition-System&theme=tokyonight)](https://github.com/Zeyad-Tantawy1/Samrt-Door-Recognition-System)
+
+---
+
+### 📧 English–Arabic Email Spam Detection  
+Multilingual spam/phishing detection system using classical ML models (Logistic Regression, Random Forest, SVM, Naive Bayes, KNN) and Deep Learning (LSTM, GRU, CNN).  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyad-Tantawy1&repo=Email-Spam-Detection&theme=tokyonight)](https://github.com/Zeyad-Tantawy1/Email-Spam-Detection)
+
+---
 
 ### 🏥 Clinical Note Analysis System  
 Admin dashboard for managing and analyzing clinical notes (PHP, HTML, CSS).  
-[🔗 View Repository](https://github.com/Zeyad-Tantawy1/Clinical_Note_Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyad-Tantawy1&repo=Clinical_Note_Analysis&theme=tokyonight)](https://github.com/Zeyad-Tantawy1/Clinical_Note_Analysis)
 
-### ☕ MIU Coffee and Beans Shop  
-Mobile-based coffee shop management system for customized beverage orders.  
-[🔗 View Repository](https://github.com/Zeyad-Tantawy1)
+---
+
+### 🪨 Digital Rock Segmentation  
+Image segmentation and detection of **digital rock images** using Python and OpenCV.  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyad-Tantawy1&repo=Digital_Rock_segmentation&theme=tokyonight)](https://github.com/Zeyad-Tantawy1/Digital_Rock_segmentation)
+
+---
+
+### 🧬 Healthcare Test Results Classification  
+Machine Learning models for **healthcare test results classification** and prediction.  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeyad-Tantawy1&repo=Healthcare-test-results-classification-using-Machine-Learning&theme=tokyonight)](https://github.com/Zeyad-Tantawy1/Healthcare-test-results-classification-using-Machine-Learning)
 
 ---
 
@@ -89,4 +84,4 @@ Mobile-based coffee shop management system for customized beverage orders.
 
 ---
 
-⭐️ *Exploring the intersection of AI and Embedded Systems to build intelligent real-world solutions!*
+⭐️ *AI Engineer passionate about building scalable ML solutions and smart embedded systems that solve real-world challenges.*
