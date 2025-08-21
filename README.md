@@ -10,12 +10,12 @@
 ## 🔧 Skills & Expertise
 
 **AI / ML & Data Science**  
-- Machine Learning, Deep Learning, NLP, Data Mining  
+- Machine Learning, Deep Learning, NLP, Data Mining, Data Science  
 - Image Processing, Classification, Regression, Clustering, Recommendation Systems  
 - Model Optimization: PCA, GridSearchCV, PSO  
 
 **Programming**  
-- Python, C++, Java, PHP, JavaScript, SQL  
+- Python, C++, Java, PHP, JavaScript, SQL, C  
 
 **Frameworks & Tools**  
 - TensorFlow, Keras, OpenCV, scikit-learn, YOLOv5, Dlib  
