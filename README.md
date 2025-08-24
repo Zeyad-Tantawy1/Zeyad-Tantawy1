@@ -22,9 +22,10 @@
 - Git, Docker, Jira, VS Code, Jupyter Notebook  
 
 **Embedded Systems**  
-- C / C++ for Microcontrollers (Arduino, STM32)  
-- IoT Applications and Smart Devices  
-- Currently enrolled in an **Embedded Systems Diploma**  
+- Embedded C / C++ programming for AVR and ATmega architectures
+- Hardware interfacing (e.g., GPIO, ADC, UART, I2C, SPI)
+- Firmware development for bare-metal applications
+- Currently enrolled in an Embedded Systems Diploma  
 
 ---
 
